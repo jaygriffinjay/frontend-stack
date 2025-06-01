@@ -5,4 +5,4 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 
-Modern frontend development stack with Vite, React, TypeScript, and Styled Components. 
+My frontend development stack with Vite, React, TypeScript, and Styled Components. 
